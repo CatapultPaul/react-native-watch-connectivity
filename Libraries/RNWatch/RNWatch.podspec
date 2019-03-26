@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.name           = 'RNWatch'
   s.version        = package['version']
-  s.summary        = package['description']
+  s.summary        = 'Summary' 
   s.homepage       = package['repository']['url']
   s.author         = 'Michael Ford <mtford@gmail.com>'
   s.license        = 'BSD'
