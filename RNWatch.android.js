@@ -11,6 +11,15 @@ var warning = require('fbjs/lib/warning');
 var RNWatch = {
   test: function() {
     warning('Not yet implemented for Android.');
+  },
+  subscribeToMessages: function() {
+    warning('Not yet implemented for Android.');
+  },
+  subscribeToWatchReachability: function() {
+    warning('Not yet implemented for Android.');
+  },
+  sendMessage: function() {
+    warning('Not yet implemented for Android.');
   }
 };
 
